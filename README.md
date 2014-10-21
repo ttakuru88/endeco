@@ -1,6 +1,7 @@
 # endeco
 
 * one
+* two
 
 https://github.com/morimori/endeco
 
