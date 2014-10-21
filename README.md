@@ -1,5 +1,7 @@
 # endeco
 
+* one
+
 https://github.com/morimori/endeco
 
 [![Build Status](https://secure.travis-ci.org/morimori/endeco.png)](http://travis-ci.org/morimori/endeco)
