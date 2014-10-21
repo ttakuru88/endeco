@@ -2,6 +2,7 @@
 
 * one
 * two
+* three
 
 https://github.com/morimori/endeco
 
